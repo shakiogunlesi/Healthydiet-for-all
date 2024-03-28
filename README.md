@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 2. Navigate to the project directory:
 
     ``` bash
-    cd healthydiet
+    cd Healthydiet-for-all
     ```
 ### Before Starting Your Assigned Task
 
